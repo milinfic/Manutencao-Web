@@ -22,7 +22,7 @@ function Login() {
                 </section>
 
                 <div className="border-container container-login-inf">
-                    <a href="/">Cadastre-se agora</a>
+                    <a href="/cadastrar">Cadastre-se agora</a>
                 </div>
 
             </div>
