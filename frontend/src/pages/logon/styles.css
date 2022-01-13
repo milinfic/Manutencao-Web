@@ -1,0 +1,45 @@
+
+
+body{
+    background-image: url('/src/img/pexels-ali-pazani-2777898.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;       
+    justify-content: space-around;
+    min-width: 350px;
+    height: 350px;
+}
+
+.border-container{
+    background-color: rgba(255, 255, 255, 0.4); 
+    border-radius: 8px;
+    border-style: outset;    
+    font: large bolder;    
+    text-transform: uppercase;
+}
+
+.form-login{
+    display: block;
+    flex-direction: column;
+    width: 95%;    
+}
+
+.button-space-login{
+    margin-top: 5px;
+    display: block;       
+}
+
+.button-space-login .item{
+    float: right;
+}
+
+.container-login-inf{
+    display: block;
+    text-align: right;
+    padding-right: 10px;
+}
