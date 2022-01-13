@@ -3,7 +3,8 @@ import './styles.css';
 
 function Login() {
     return (
-            <div className='backgroung-logon'>
+        <div className='background-login'>
+            <div>
                 <section className='container border-container'>
                     <h2>Login</h2>
 
@@ -26,6 +27,8 @@ function Login() {
                 </div>
 
             </div>
+            
+        </div>
     )
 }
 

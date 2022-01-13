@@ -31,5 +31,10 @@
 
 # Primeira Tela Front-End
 <p align="center">
-  <img alt="Tela-Login" title="#Tela-Login" src="./img-git/logon.png" width="200px">
+  <img alt="Tela-Login" title="#Tela-Login" src="./img-git/logon.jpg" width="300px">
+</p>
+
+# Tela Cadastrar
+<p align="center">
+  <img alt="Tela-Login" title="#Tela-Login" src="./img-git/cadastrar.jpg" width="450px">
 </p>
